@@ -1,7 +1,7 @@
 <resources>
 
-    <string name="app_name">FNV Wallpapers</string>
-    <string name="title_activity_wallpaper">FNV Wallpapers</string>
+    <string name="app_name">BAKED Wallpapers</string>
+    <string name="title_activity_wallpaper">BAKED Wallpapers</string>
     <string name="back">Previous</string>
     <string name="next">Next</string>
     <string name="page">Page: </string>
@@ -16,5 +16,10 @@
     <string name="about">About</string>
     <string name="wars">Wallpaper Wars</string>
     <string name="vote">Vote!</string>
+    <string name="wallpaper">wallpaper</string>
+    <string name="setting_wallpaper">Setting wallpaper…</string>
+    <string name="category_name">Category Name</string>
+    <string name="choose_category">Choose category</string>
+
 
 </resources>

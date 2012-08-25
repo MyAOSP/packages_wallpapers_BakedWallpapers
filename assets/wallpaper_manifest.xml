@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wallpapers>
+
+    <!--
+         Categories accept:
+        id="<string>" unique id string
+        name="<string>" visual name
+
+        Wallpapers accept:
+        url="<url of wallpaper>"
+        thumbUrl="<url of thumbnail>"
+        author="<author>" may be used for filtering later
+        date="<date added>" may be used for filtering later
+        name="<wallpaper name">
+    -->
+
+    <category id="main" name="BAKED">
+        <wallpaper
+            url="http://gunnermike53.com/Themers/b-Boy/baked/wallpaper/bakedwall1.jpg"
+            name="baked 1"  />
+        <wallpaper
+            url="http://gunnermike53.com/Themers/b-Boy/baked/wallpaper/bakedwall2.jpg"
+            name="baked 2"  />
+        <wallpaper
+            url="http://gunnermike53.com/Themers/b-Boy/baked/wallpaper/bakedwall3.jpg"
+            name="baked 3"  />
+        <wallpaper
+            url="http://gunnermike53.com/Themers/b-Boy/baked/wallpaper/bakedwall4.jpg"
+            name="baked 4"  />
+        <wallpaper
+            url="http://gunnermike53.com/Themers/b-Boy/baked/wallpaper/bakedwall5.jpg"
+            name="baked 5"  />
+        <wallpaper
+            url="http://gunnermike53.com/Themers/b-Boy/baked/wallpaper/bakedwall6.jpg"
+            name="baked 6"  />
+        <wallpaper
+            url="http://gunnermike53.com/Themers/b-Boy/baked/wallpaper/bakedwall7.jpg"
+            name="baked 7"  />
+        <wallpaper
+            url="http://gunnermike53.com/Themers/b-Boy/baked/wallpaper/bakedwall8.jpg"
+            name="baked 8"  />
+        <wallpaper
+            url="http://gunnermike53.com/Themers/b-Boy/baked/wallpaper/bakedwall9.jpg"
+            name="baked 9"  />
+    </category>
+</wallpapers>
