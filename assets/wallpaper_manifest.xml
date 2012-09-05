@@ -14,33 +14,51 @@
         name="<wallpaper name">
     -->
 
-    <category id="main" name="BAKED">
+    <category name="Starters">
+
         <wallpaper
-            url="http://gunnermike53.com/Themers/b-Boy/baked/wallpaper/bakedwall1.jpg"
-            name="baked 1"  />
+            author="travp624"
+            url="http://teamicemods.com/wp-content/uploads/2012/09/baked_blue_glow.jpg" />
+
         <wallpaper
-            url="http://gunnermike53.com/Themers/b-Boy/baked/wallpaper/bakedwall2.jpg"
-            name="baked 2"  />
+            author="travp624"
+            url="http://teamicemods.com/wp-content/uploads/2012/09/baked_cyan_rays.jpg" />
+
         <wallpaper
-            url="http://gunnermike53.com/Themers/b-Boy/baked/wallpaper/bakedwall3.jpg"
-            name="baked 3"  />
+            author="travp624"
+            url="http://teamicemods.com/wp-content/uploads/2012/09/baked_glowing_rays.jpg" />
+
         <wallpaper
-            url="http://gunnermike53.com/Themers/b-Boy/baked/wallpaper/bakedwall4.jpg"
-            name="baked 4"  />
+            author="travp624"
+            url="http://teamicemods.com/wp-content/uploads/2012/09/baked_glowing_rays_white.jpg" />
+
         <wallpaper
-            url="http://gunnermike53.com/Themers/b-Boy/baked/wallpaper/bakedwall5.jpg"
-            name="baked 5"  />
+            author="ebs512"
+            url="http://teamicemods.com/wp-content/uploads/2012/09/baked_lightning_strike.jpg" />
+
         <wallpaper
-            url="http://gunnermike53.com/Themers/b-Boy/baked/wallpaper/bakedwall6.jpg"
-            name="baked 6"  />
+            author="ebs512"
+            url="http://teamicemods.com/wp-content/uploads/2012/09/baked_rainbow.jpg" />
+
         <wallpaper
-            url="http://gunnermike53.com/Themers/b-Boy/baked/wallpaper/bakedwall7.jpg"
-            name="baked 7"  />
+            author="travp624"
+            url="http://teamicemods.com/wp-content/uploads/2012/09/baked_rays_of_grey.jpg" />
+
         <wallpaper
-            url="http://gunnermike53.com/Themers/b-Boy/baked/wallpaper/bakedwall8.jpg"
-            name="baked 8"  />
+            author="travp624"
+            url="http://teamicemods.com/wp-content/uploads/2012/09/baked_soft_baby_blue.jpg" />
+
         <wallpaper
-            url="http://gunnermike53.com/Themers/b-Boy/baked/wallpaper/bakedwall9.jpg"
-            name="baked 9"  />
+            author="travp624"
+            url="http://teamicemods.com/wp-content/uploads/2012/09/baked_soft_baby_blue_symbol.jpg" />
+
+        <wallpaper
+            author="travp624"
+            url="http://teamicemods.com/wp-content/uploads/2012/09/baked_splatter_black.jpg" />
+
+        <wallpaper
+            author="travp624"
+            url="http://teamicemods.com/wp-content/uploads/2012/09/baked_splatter_white.jpg" />
+
     </category>
 </wallpapers>
